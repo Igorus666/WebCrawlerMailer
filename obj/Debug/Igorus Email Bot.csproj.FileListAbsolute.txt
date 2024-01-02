@@ -1,0 +1,48 @@
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\Igorus Email Bot.exe.config
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\Igorus Email Bot.exe
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\Igorus Email Bot.pdb
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\obj\Debug\Igorus Email Bot.csproj.AssemblyReference.cache
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\obj\Debug\Igorus_Email_Bot.BotUI.resources
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\obj\Debug\Igorus_Email_Bot.Properties.Resources.resources
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\obj\Debug\Igorus Email Bot.csproj.GenerateResource.cache
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\obj\Debug\Igorus Email Bot.csproj.CoreCompileInputs.cache
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\obj\Debug\Igorus Email Bot.exe
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\obj\Debug\Igorus Email Bot.pdb
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\obj\Debug\Igorus_Email_Bot.Forms.UserConfig.resources
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\obj\Debug\Igorus_Email_Bot.Forms.APIsearch.resources
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\PuppeteerSharp.dll
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\System.Buffers.dll
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\System.Memory.dll
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\System.ValueTuple.dll
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\PuppeteerSharp.xml
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\System.Buffers.xml
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\System.Memory.xml
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\bin\Debug\System.ValueTuple.xml
+C:\Users\igor-\source\repos\Igorus Email Bot\Igorus Email Bot\obj\Debug\Igorus Email Bot.csproj.CopyComplete

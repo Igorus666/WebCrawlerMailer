@@ -9,7 +9,6 @@ WebCrawlerMailer is a versatile web scraper that leverages the Google JSON API t
   - [Manual Email Entry](#manual-email-entry)
   - [Google API Search](#google-api-search)
   - [Combined Approach](#combined-approach)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -55,12 +54,6 @@ Utilize the Google JSON API to search for email addresses based on specified que
 Combine both manual entry and Google API search for a comprehensive email list.
 
 ![Combined Approach](https://github.com/Igorus666/WebCrawlerMailer/assets/22872565/5ca3bee0-331a-4762-8ad1-8a310de0228c)
-
-## Screenshots
-
-![Sample Screenshot](https://github.com/Igorus666/WebCrawlerMailer/assets/your-screenshot.png)
-
-Include additional screenshots to showcase the application in action.
 
 ## Contributing
 
